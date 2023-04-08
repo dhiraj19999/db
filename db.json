@@ -1,91 +1,26 @@
 {
-  "hotels": [
-    {
-      "category": "Family",
-      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "4000",
-      "booked": false,
-      "id": 3
-    },
-    {
-      "category": "Deluxe",
-      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "2000",
-      "booked": false,
-      "id": 4
-    },
-    {
-      "category": "Suite",
-      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "1000",
-      "booked": false,
-      "id": 4
-    }
-    
-    
-  ],
+ 
   "users": [
     {
       "username": "dhiraj1999",
       "email": "dhirajgarad46@gmail.com",
-      "password": "dhiraj1999",
-      "id": 2
-    },
-    {
-      "username": "suraj1999",
-      "email": "surajgarad46@gmail.com",
-      "password": "suraj1999",
-      "id": 3
-    },
-    {
-      "username": "dhiraj1999_",
-      "email": "jchetan710@gmail.com",
-      "password": "567",
-      "id": 4
-    },
-    {
-      "username": "dhiraj461999",
-      "email": "eve.holt@reqres.in",
-      "password": "890",
-      "id": 5
-    },
-    {
-      "username": "dhiraj1999_",
-      "email": "jchetan710@gmail.com",
-      "password": "567",
-      "id": 6
-    },
-    {
-      "username": "dhirajgarad46@gmail.com",
-      "email": "jchetan710@gmail.com",
-      "password": "123",
-      "id": 7
+      "password": "dhiraj1999"
     }
   ],
   "Movies":[
 
 
-    {
-      "id" : 1,
-      "poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-      "title" : "Doctor Strange in the Multiverse of Madness",
-      "director" : "Sam Raimi",
-      "year" : 2022,
-      "genre" : "Action",
-      "IMDB_Rating" : 6.8,
-      "ticket" : 200
-    }
+    
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
+      }
+    
   ]
 }
