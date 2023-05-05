@@ -1,27 +1,5 @@
 {
  
-  "users": [
-    {
-      "username": "dhiraj1999",
-      "email": "dhirajgarad46@gmail.com",
-      "password": "dhiraj1999",
-      "id":1
-    }
-  ],
-  "Movies":[
-
-
-    
-      {
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": 1299,
-        "borrowed": false
-      }
-    
-  ]
+  
+  "userData":[]
 }
